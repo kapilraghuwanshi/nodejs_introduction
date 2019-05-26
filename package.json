@@ -1,0 +1,16 @@
+{
+  "name": "nodepractice",
+  "version": "1.0.0",
+  "description": "Learning Node Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Kapil Raghuwanshi",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^1.2.1",
+    "nodemailer": "^6.1.1",
+    "nodemon": "^1.19.0"
+  }
+}
